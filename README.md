@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Viktoria!
 
-<!--
-**pavlovaVictoria/pavlovaVictoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **curious student** with a passion for **learning and improving my skills**. 
+I mostly work with **C#**, but I'm also diving into **HTML**, **CSS**, **JavaScript** and exploring the exciting world of **DevOps**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Always eager to learn and explore new fields in development  
+- 💻 Focused on **C#** and learning how to build full-stack applications  
+- 🔍 Exploring how to build efficient and scalable applications    
+- 🎯 My goal: To continuously improve and to become a well-rounded developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- #️⃣ C#
+- 🌐 HTML & 🎨 CSS
+- ⚡ JavaScript
